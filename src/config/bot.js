@@ -23,8 +23,8 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Ranktoz", // required by Discord API, not shown in the client
-        state: "✌️BWS Moderator",     // this is what people actually see
+        name: "Dark Russia", // required by Discord API, not shown in the client
+        state: "Server Moderator of Dark Russia",     // this is what people actually see
         type: 4,               // Custom
       },
     ],
